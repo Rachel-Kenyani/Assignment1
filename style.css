@@ -1,0 +1,15 @@
+#outer{
+ border: dotted;
+ border-color: rgb(139, 66, 14); 
+ padding: 20px;  
+}
+#middle{
+  border: solid; 
+  border-color: black; 
+}
+#inner{
+  padding: 20px;
+  margin: 5%;
+  text-align: center;
+}
+
